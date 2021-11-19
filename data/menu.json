@@ -1,0 +1,23 @@
+{
+    "nombreApp": "ComponentesFlutter",
+    "rutas" : [
+        {
+            "ruta": "alert",
+            "icon": "add_alett",
+            "texto": "Alerta",
+            "subtexto": "Ejemplo de alertas"
+        },
+        {
+            "ruta": "avatar",
+            "icon": "accessibity",
+            "texto": "Avatars",
+            "subtexto": "Implementacion de CircleAvatar."
+        },
+        {
+            "ruta": "card",
+            "icon": "folder_opea",
+            "texto": "Cards - Tarjetas",
+            "subtexto": "Implementacion de cards"
+        }
+    ]
+}
